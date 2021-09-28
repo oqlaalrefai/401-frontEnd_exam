@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { withAuth0 } from "@auth0/auth0-react";
 import {Form,Modal,Button} from 'react-bootstrap/'
+
 class FormModal extends Component {
   render() {
     return (
